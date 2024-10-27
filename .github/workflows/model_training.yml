@@ -24,13 +24,11 @@ jobs:
     - name: Install Dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirement
+        pip install -r requirements
 
-    - name: Login to Weights & Biases
+    - name: Set up Weights & Biases API Key
       env:
-        WANDB_API_KEY: ${{ secrets.d2d473b36d950f155a297d058a5513dcd24cb49e }}
-      run: |
-        wandb login $WANDB_API_KEY
+        WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
 
     - name: Download Dataset
       run: |
@@ -40,6 +38,8 @@ jobs:
         rm dataset.zip
 
     - name: Train Model
+      env:
+        WANDB_API_KEY: ${{ secrets.WANDB_API_KEY }}
       run: |
         python model-train.py
 
