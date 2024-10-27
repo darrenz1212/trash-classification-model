@@ -1,0 +1,39 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "3.11.5",
+  "startedAt": "2024-10-22T16:00:12.920406Z",
+  "program": "Desktop/trash-classification/notebooks/exploration.ipynb",
+  "git": {
+    "remote": "https://github.com/darrenz1212/trash-classification.git",
+    "commit": "c96df988547c6eba66eb6764296f3eece21f8dfd"
+  },
+  "email": "darrenzavier9@gmail.com",
+  "root": "C:\\Users\\User\\Desktop\\trash-classification\\notebooks",
+  "host": "DESKTOP-40KRDP2",
+  "username": "User",
+  "executable": "C:\\Users\\User\\anaconda3\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "GeForce MX150",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "239273504768",
+      "used": "216840683520"
+    }
+  },
+  "memory": {
+    "total": "8461193216"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "GeForce MX150",
+      "memoryTotal": "2147483648"
+    }
+  ],
+  "cudaVersion": "10.2"
+}

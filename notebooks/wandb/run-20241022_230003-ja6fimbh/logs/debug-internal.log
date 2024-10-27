@@ -1,0 +1,17 @@
+{"time":"2024-10-22T23:00:12.6066034+07:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-22T23:00:12.6066034+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\User\\Desktop\\trash-classification\\notebooks\\wandb\\run-20241022_230003-ja6fimbh\\logs\\debug-core.log"}
+{"time":"2024-10-22T23:00:13.4224953+07:00","level":"INFO","msg":"created new stream","id":"ja6fimbh"}
+{"time":"2024-10-22T23:00:13.4230047+07:00","level":"INFO","msg":"stream: started","id":"ja6fimbh"}
+{"time":"2024-10-22T23:00:13.4230867+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ja6fimbh"}}
+{"time":"2024-10-22T23:00:13.4230047+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ja6fimbh"}}
+{"time":"2024-10-22T23:00:13.4230047+07:00","level":"INFO","msg":"sender: started","stream_id":"ja6fimbh"}
+{"time":"2024-10-22T23:00:14.4967095+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-22T23:50:30.9154969+07:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-22T23:50:31.0013538+07:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-22T23:50:32.0983366+07:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.8146806},{"desc":"uploading config.yaml","runtime_seconds":0.4474808,"progress":"661B/661B"}],"total_operations":2}}
+{"time":"2024-10-22T23:50:35.8519388+07:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-22T23:50:38.5846709+07:00","level":"INFO","msg":"stream: closing","id":"ja6fimbh"}
+{"time":"2024-10-22T23:50:38.5846709+07:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ja6fimbh"}}
+{"time":"2024-10-22T23:50:38.5851774+07:00","level":"INFO","msg":"sender: closed","stream_id":"ja6fimbh"}
+{"time":"2024-10-22T23:50:38.5851774+07:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ja6fimbh"}}
+{"time":"2024-10-22T23:50:38.5852122+07:00","level":"INFO","msg":"stream: closed","id":"ja6fimbh"}

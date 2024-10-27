@@ -1,0 +1,64 @@
+Found 2527 images belonging to 6 classes.
+Found 0 images belonging to 0 classes.
+Epoch 1/10
+Epoch 1/10
+[1m79/79[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 4s/step - accuracy: 0.2941 - loss: 1.8710Total training samples: 2527
+Total validation samples: 0
+Found 2527 images belonging to 6 classes.
+Found 0 images belonging to 6 classes.
+Total training samples: 2527
+Total validation samples: 0
+Found 2024 images belonging to 6 classes.
+Found 503 images belonging to 6 classes.
+Total training samples: 2024
+Total validation samples: 503
+Epoch 1/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m384s[0m 5s/step - accuracy: 0.3063 - loss: 1.6813 - val_accuracy: 0.3479 - val_loss: 1.5735
+Epoch 2/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m376s[0m 5s/step - accuracy: 0.4111 - loss: 1.4158 - val_accuracy: 0.3678 - val_loss: 1.5130
+Epoch 3/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m377s[0m 5s/step - accuracy: 0.4857 - loss: 1.2827 - val_accuracy: 0.4195 - val_loss: 1.3972
+Epoch 4/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m378s[0m 5s/step - accuracy: 0.5477 - loss: 1.1452 - val_accuracy: 0.4314 - val_loss: 1.3053
+Epoch 5/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m389s[0m 6s/step - accuracy: 0.5786 - loss: 1.1171 - val_accuracy: 0.4930 - val_loss: 1.3489
+Epoch 6/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m382s[0m 5s/step - accuracy: 0.6337 - loss: 0.9976 - val_accuracy: 0.4533 - val_loss: 1.3423
+Epoch 7/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m401s[0m 6s/step - accuracy: 0.6189 - loss: 1.0324 - val_accuracy: 0.5209 - val_loss: 1.2999
+Epoch 8/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m385s[0m 6s/step - accuracy: 0.6558 - loss: 0.9569 - val_accuracy: 0.5288 - val_loss: 1.2621
+Epoch 9/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m377s[0m 5s/step - accuracy: 0.6233 - loss: 0.9740 - val_accuracy: 0.5288 - val_loss: 1.2571
+Epoch 10/10
+[1m64/64[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m374s[0m 5s/step - accuracy: 0.6573 - loss: 0.9442 - val_accuracy: 0.5288 - val_loss: 1.2777
+Epoch 1/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m387s[0m 6s/step - accuracy: 0.1822 - loss: 1.9198 - val_accuracy: 0.3500 - val_loss: 1.6214
+Epoch 2/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 62ms/step - accuracy: 0.3438 - loss: 1.4995 - val_accuracy: 0.3913 - val_loss: 1.5618
+C:\Users\User\anaconda3\Lib\contextlib.py:155: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self.gen.throw(typ, value, traceback)
+Epoch 3/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m374s[0m 5s/step - accuracy: 0.3629 - loss: 1.5010 - val_accuracy: 0.3812 - val_loss: 1.5508
+Epoch 4/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m4s[0m 53ms/step - accuracy: 0.4062 - loss: 1.4129 - val_accuracy: 0.3478 - val_loss: 1.5874
+Epoch 5/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m373s[0m 5s/step - accuracy: 0.5039 - loss: 1.2554 - val_accuracy: 0.4396 - val_loss: 1.4378
+Epoch 6/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 49ms/step - accuracy: 0.5000 - loss: 1.3214 - val_accuracy: 0.3913 - val_loss: 1.3466
+Epoch 7/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m472s[0m 7s/step - accuracy: 0.5195 - loss: 1.2113 - val_accuracy: 0.4688 - val_loss: 1.3105
+Epoch 8/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m9s[0m 128ms/step - accuracy: 0.5625 - loss: 1.2683 - val_accuracy: 0.4783 - val_loss: 1.3701
+Epoch 9/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m516s[0m 8s/step - accuracy: 0.5651 - loss: 1.1227 - val_accuracy: 0.5000 - val_loss: 1.3518
+Epoch 10/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m8s[0m 124ms/step - accuracy: 0.6250 - loss: 0.9725 - val_accuracy: 0.5217 - val_loss: 1.2897
+Epoch 11/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m451s[0m 6s/step - accuracy: 0.5981 - loss: 1.0461 - val_accuracy: 0.5063 - val_loss: 1.3142
+Epoch 12/50
+[1m63/63[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m7s[0m 112ms/step - accuracy: 0.6250 - loss: 1.0495 - val_accuracy: 0.5652 - val_loss: 1.2209
+Epoch 13/50
+[1m23/63[0m [32m━━━━━━━[0m[37m━━━━━━━━━━━━━[0m [1m4:25[0m 7s/step - accuracy: 0.6086 - loss: 0.9986
+
+KeyboardInterrupt
